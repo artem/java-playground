@@ -1,0 +1,10 @@
+# Test files
+*.in
+*.out
+
+# Generated classes
+out/
+
+# IDEA junk
+.idea/
+*.iml
